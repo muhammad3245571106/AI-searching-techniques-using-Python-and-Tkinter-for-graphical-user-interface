@@ -1,4 +1,4 @@
-# AI-searching-techniques-using-Tkinter-and-python-with-graphical-interface
+# AI searching techniques using Python and Tkinter for graphical user interface
 This is a Python project that uses Tkinter to develop the front end of the application and Python to implement AI searches. This has a cool graphical interface and visualization to make the project look aesthetic.
 I've implemented all of these searches named below.
 ### Uninformed Search
